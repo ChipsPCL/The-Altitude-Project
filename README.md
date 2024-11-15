@@ -34,6 +34,12 @@ The ALTITUDE token contract is an ERC-20 token with custom tax functionalities t
 - **Transaction Taxes**: Custom taxes for buying, selling, and utility are incorporated to fund the project’s needs. Safeguards are in place to limit tax percentages, protecting holders from excessive taxation. Anti-whale and anti-bot mechanisms are included but have not been activated since launch.
 - **ERC-20 Compatibility**: The contract follows standard ERC-20 guidelines, ensuring compatibility with decentralized exchanges, wallets, and other DeFi applications. Currently, the token is tradable on the Baseswap DEX as of 15th Nov 2024.
 
+- ## Audit Details
+
+### Audit Report Overview
+The smart contract for the Altitude token has undergone a thorough security audit to ensure that it is secure, optimized, and free from any vulnerabilities. The audit was conducted by Cryptohub in December 2023.
+ **Link to Full Audit Report**: https://www.altitudetoken.com/security
+
 ## License
 This project is licensed under the MIT License.
 
